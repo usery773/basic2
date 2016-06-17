@@ -10,8 +10,15 @@ require(__DIR__ . '/../vendor/yiisoft/yii2/Yii.php');
 $config = require(__DIR__ . '/../config/web.php');
 
 ///this is coomment
+//
+//hi
 
 //yeppo;!
 
 //basic2 master
+//okkk!
+
+///p[[p
+
+///***********************************][p][p[]p[]lsdjhsdjkhds
 (new yii\web\Application($config))->run();
