@@ -15,5 +15,5 @@ $config = require(__DIR__ . '/../config/web.php');
 
 //okkk!
 
-///p[[p
+///p[[p 
 (new yii\web\Application($config))->run();
